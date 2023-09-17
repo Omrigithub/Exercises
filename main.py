@@ -45,6 +45,5 @@ print(name.split(' ')[1])
 
 # print the string in reverse
 print(name[::-1])
-
-# print the first word
+g# print the first word
 print(name.split(' ')[0])
