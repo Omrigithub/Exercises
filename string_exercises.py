@@ -1,3 +1,5 @@
+"""
+
 string= You are doing great !!!
 
 print(string[4]) - a
@@ -29,4 +31,6 @@ print(string.replace(!,.)) = You are doing great ...
 print(string.startswith('y')) = False
 
 print(string.split(" ") = ['You', 'are', 'doing', 'great', '!!!']
+
+"""
 
