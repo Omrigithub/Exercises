@@ -4,7 +4,7 @@
 
 # Exercise 1
 
-number = 17
+number = input(int("Enter number: ")
 
 ones = number % 10
 
@@ -14,7 +14,7 @@ tens = number//10
 
 # Exercise 2
 
-number = 134
+number = input(int("Enter number: ")
 
 hundreds = number//100
 
