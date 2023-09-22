@@ -6,9 +6,9 @@ print(len(string)) = 23
 
 print(string[-3]) = !
 
-print(string[::2]) = yuaedigget!!
+print(string[::2]) = Yuaedigget!!
 
-print(string[4:-3]) = are doing great !
+print(string[4:-3]) = are doing great
 
 print(string[:]) = You are doing great !!!
 
@@ -18,15 +18,15 @@ print(string.count(e)) = 2
 
 print(string.endswith(!)) = True
 
-print(string.find(g))  = string[12], string[14]
+print(string.find(g))  = string[12]
 
-print(string.index(g)) = string[12] , string[14]
+print(string.index(g)) = string[12]
 
 print(string.join(!!!)) = You are doing great !!!!!!
 
 print(string.replace(!,.)) = You are doing great ...
 
-print(string.startswith('y')) = true
+print(string.startswith('y')) = False
 
-print(string.split(" ") = ['You are doing great !!!']
+print(string.split(" ") = ['You', 'are', 'doing', 'great', '!!!']
 
